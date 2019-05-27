@@ -234,3 +234,10 @@ local getv = dict:get(db_kv, v)
 	* 其实整个AB项目并没有太高的技术含量，大家关于ab和分流的玩法都大同小异，所不同的是，我们在这种范式下，能发出多少有趣的花样，期待大家多多交流
 
 * 逐步开源dygateway的所有功能
+
+
+开发不易，感兴趣的朋友可以一起交流一下！
+
+欢迎捐赠一杯咖啡，谢谢！
+
+![image](https://github.com/hotwheelsBo/blog/blob/master/thankyou.png)
